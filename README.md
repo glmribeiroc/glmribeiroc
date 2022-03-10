@@ -1,5 +1,5 @@
 <div align="center">
-## Olá eu sou o Guilherme, estudante de ciência da computação e programador!
+Olá eu sou o Guilherme, estudante de ciência da computação e programador!
 
 ##
 
