@@ -3,7 +3,7 @@ Olá eu sou o Guilherme, estudante de ciência da computação e programador!
 
 ##
 
-Atualmente estou trabalhando desenvolvedor backend utilizando a linguagem Java, no tempo livre estudo Dart/Flutter para mobile.
+Atualmente estou trabalhando como desenvolvedor backend utilizando a linguagem Java, no tempo livre estudo Dart/Flutter para mobile.
 </div>
 
 <div align="center">
