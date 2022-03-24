@@ -1,10 +1,15 @@
-<div align="center">
-Olá eu sou o Guilherme, estudante de ciência da computação e programador!
+<h1 align="center">
+	🚀 Bem vindo ao meu GitHub 🚀
+</h1>
 
-##
-
-Atualmente estou trabalhando como desenvolvedor backend utilizando a linguagem Java, no tempo livre estudo Dart/Flutter para mobile.
-</div>
+### 🖖 Sobre mim 🖖:
+- 👋 Me chamo **Guilherme 
+  Ribeiro Costa**, tenho 22  anos.
+- 📌  Bauru - São Paulo.
+- 📚 Atualmente sou estudante de Ciência da Computação na Faculdade Integradas de Bauru (FIB).
+ Meu foco nos estudos fora da faculdade é na área Mobile e Backend.
+- 🎓 Adquiri diversos **Cursos Online (Cerificados)**, e muita **Prática** como um Bom **Autodidata**!
+- 🛠️ Estudando para me tornar um **Desenvolvedor**.
 
 <div align="center">
   <a href="https://github.com/glmribeiroc">
