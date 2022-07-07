@@ -7,7 +7,7 @@
   Ribeiro Costa**, tenho 22  anos.
 - 📌  Bauru - São Paulo.
 - 📚 Atualmente sou estudante de Ciência da Computação na Faculdade Integradas de Bauru (FIB).
- Meu foco nos estudos fora da faculdade é na área Mobile e Backend.
+ Meu foco nos estudos fora da faculdade é na área Frontend e Backend.
 - 🎓 Adquiri diversos **Cursos Online (Cerificados)**, e muita **Prática** como um Bom **Autodidata**!
 - 🛠️ Estudando para me tornar um **Desenvolvedor**.
 
