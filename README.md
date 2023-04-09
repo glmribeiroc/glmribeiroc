@@ -4,7 +4,7 @@
 
 ### 🖖 Sobre mim 🖖:
 - 👋 Me chamo **Guilherme 
-  Ribeiro Costa**, tenho 22  anos.
+  Ribeiro Costa**, tenho 23  anos.
 - 📌  Bauru - São Paulo.
 - 📚 Atualmente sou estudante de Ciência da Computação na Faculdade Integradas de Bauru (FIB).
  Meu foco nos estudos é na área Frontend e Backend.
