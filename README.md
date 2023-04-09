@@ -9,7 +9,6 @@
 - 📚 Atualmente sou estudante de Ciência da Computação na Faculdade Integradas de Bauru (FIB).
  Meu foco nos estudos é na área Frontend e Backend.
 - 🎓 Adquiri diversos **Cursos Online (Cerificados)**, e muita **Prática** como um Bom **Autodidata**!
-- 🛠️ Estudando para me tornar um **Desenvolvedor**.
 
 <div align="center">
   <a href="https://github.com/glmribeiroc">
