@@ -1,15 +1,3 @@
-<h1 align="center">
-	🚀 Bem vindo ao meu GitHub 🚀
-</h1>
-
-### 🖖 Sobre mim 🖖:
-- 👋 Me chamo **Guilherme 
-  Ribeiro Costa**, tenho 23  anos.
-- 📌  Bauru - São Paulo.
-- 📚 Atualmente sou estudante de Ciência da Computação na Faculdade Integradas de Bauru (FIB).
- Meus projetos e foco nos estudos é na área Backend.
-- 🎓 Adquiri diversos **Cursos Online (Cerificados)**, e muita **Prática** como um Bom **Autodidata**!
-
 <div align="center">
   <a href="https://github.com/glmribeiroc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glmribeiroc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
